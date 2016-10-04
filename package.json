@@ -1,0 +1,14 @@
+{
+  "name": "robots",
+  "version": "0.0.1",
+  "main": "dist/robots.js",
+  "license": null,
+  "author": "fea17e86 <fea17e86@mail.de>",
+  "bugs": {
+    "url": "https://github.com/fea17e86/robots/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fea17e86/robots.git"
+  }
+}
