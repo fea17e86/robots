@@ -10,7 +10,7 @@ Lets say your robot has wheels for moving around, a camera system to see the env
 
 ### 2) Companion
 
-The robot uses is camera module to lock the player character and move along with it. It also has a module which is paired with the weapon of the player character. If that weapon is fired the robot will attack the target it was shot at.
+The robot uses its camera module to lock the player character and move along with it. It also has a module which is paired with the weapon of the player character. If that weapon is fired the robot will attack the target it was shot at.
 
 ### 3) Minecraft
 
